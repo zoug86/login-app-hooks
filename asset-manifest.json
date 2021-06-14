@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/login-app-hooks/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/login-app-hooks/static/js/main.f56d739c.chunk.js",
+    "main.js.map": "/login-app-hooks/static/js/main.f56d739c.chunk.js.map",
+    "runtime-main.js": "/login-app-hooks/static/js/runtime-main.50c6b27d.js",
+    "runtime-main.js.map": "/login-app-hooks/static/js/runtime-main.50c6b27d.js.map",
+    "static/js/2.2d495bfb.chunk.js": "/login-app-hooks/static/js/2.2d495bfb.chunk.js",
+    "static/js/2.2d495bfb.chunk.js.map": "/login-app-hooks/static/js/2.2d495bfb.chunk.js.map",
+    "static/js/3.8a690c4b.chunk.js": "/login-app-hooks/static/js/3.8a690c4b.chunk.js",
+    "static/js/3.8a690c4b.chunk.js.map": "/login-app-hooks/static/js/3.8a690c4b.chunk.js.map",
+    "index.html": "/login-app-hooks/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/login-app-hooks/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2d495bfb.chunk.js.LICENSE.txt": "/login-app-hooks/static/js/2.2d495bfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50c6b27d.js",
+    "static/js/2.2d495bfb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f56d739c.chunk.js"
+  ]
+}
